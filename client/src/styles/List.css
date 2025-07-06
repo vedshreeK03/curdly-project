@@ -1,0 +1,21 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+thead {
+  background-color: #e8e8e8;
+}
+
+input, select {
+  padding: 6px;
+  margin-right: 8px;
+  margin-bottom: 10px;
+}
